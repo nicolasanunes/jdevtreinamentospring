@@ -1,3 +1,3 @@
 # jdevtreinamentospring
 
-Projeto em Spring Boot do curso Jdev.# jdevtreinamentospring
+Projeto em Spring Boot do curso Jdev.
